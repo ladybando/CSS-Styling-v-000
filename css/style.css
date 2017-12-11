@@ -45,10 +45,6 @@ text-shadow: 0 2px 3px #000;
 }
 
 /*Pseudo Selector */
-#details a:link{
-  color:black;
-  text-decoration: none;
-}
 
 #details a:visited, #details a:link{
   color:black;
